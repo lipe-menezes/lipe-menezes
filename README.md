@@ -1,4 +1,4 @@
--Eai pessoal, meu nome é Filipe 
+-Olá pessoal, meu nome é Filipe 👋
 
 <!---
 lipe-menezes/lipe-menezes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
