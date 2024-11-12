@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/lipe-menezes/lipe-menezes/blob/output/github-contribution-grid-snake.gif)
 -->
 
-<h1 align="left">Olá, Meu nome é Filipe Bispo</h1>
+
+<h1 align="center">Olá, Meu nome é Filipe Bispo</h1>
+
+###
+
+<p align="left">Diretamente de Brasília -DF, sou entusiasta da tecnologia, desde criança tenho gosto por essa área. Descobrir que poderia transformar essa paixão em carreira me fez estudante de Ciência da Computação na Universidade Católica de Brasília. Desejo seguir carreira de desenvolvedor Front-End. Gosto de design e performance, domino tecnologias como HTML, CSS e JavaScript</p>
 
 ###
 
