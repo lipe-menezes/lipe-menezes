@@ -1,6 +1,3 @@
-## Hi there 👋
-
-![snake gif](https://github.com/lipe-menezes/lipe-menezes/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **lipe-menezes/lipe-menezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +19,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<h5 align="left">Me chamo Filipe Bispo, tenho 22 anos e moro em Brasília -DF<br><br>Sou entusiasta de tecnologia e estudante de Ciência da Computação.<br><br>Atualmente estou focando em ser desenvolvedor Front-End.</h5>
+<h4 align="left">Me chamo Filipe Bispo, tenho 22 anos e moro em Brasília -DF<br><br>Sou entusiasta de tecnologia e estudante de Ciência da Computação.<br><br>Atualmente estou focando em ser desenvolvedor Front-End.</h4>
 
 ###
 
@@ -68,7 +65,7 @@ Here are some ideas to get you started:
   <a href="https://api.whatsapp.com/send/?phone=61985989280&text&type=phone_number&app_absent=0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="linkedin.com/in/filipe-bispo-2098b9234" target="_blank">
+  <a href="https://www.linkedin.com/in/filipe-bispo-2098b9234/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/_filipebs061/" target="_blank">
@@ -81,3 +78,5 @@ Here are some ideas to get you started:
 <p align="center">GitHub</p>
 
 ###
+
+![snake gif](https://github.com/lipe-menezes/lipe-menezes/blob/output/github-contribution-grid-snake.gif)
