@@ -16,15 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" style="margin-bottom: 5px;" />
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+bem+vindos+ao+meu+GitHub" alt="Typing SVG" />
-    </a>
-</div>
-
-
-<h2 align="center">Olá, bem-vindo ao meu GitHub</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&pause=1000&color=F72213&background=000000F9&center=true&vCenter=true&random=true&width=435&lines=Ol%C3%A1%2C+bem+vindos+ao+meu+GitHub" alt="Typing SVG" /></a>
 
 ###
 
