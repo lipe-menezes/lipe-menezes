@@ -24,12 +24,6 @@ Here are some ideas to get you started:
 
 ###
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=30&duration=3000&pause=1000&color=F7F7F7&vCenter=true&random=false&width=600&height=60&lines=%F0%9F%91%BE+Bem+Vindo+ao+meu+GitHub!;%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Atrávés+de+linhas+de+código+trago+a+solução!+;%F0%9F%8E%AE+Gamer+pela+noite%2C+dev+pela+manhã!;"
-    alt="Typing SVG" />
-</h1>
-
-###
 
 <h4 align="left">Linguagens de programação</h4>
 
